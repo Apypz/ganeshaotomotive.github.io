@@ -4,17 +4,17 @@
 
 @font-face {
     font-family: 'Judul';
-    src: url(/UAS/Font/Poppins-Bold.ttf);
+    src: url(/Font/Poppins-Bold.ttf);
 }
 
 @font-face {
     font-family: 'subjudul';
-    src: url(/UAS/Font/Poppins-SemiBold.ttf);
+    src: url(/Font/Poppins-SemiBold.ttf);
 }
 
 @font-face {
     font-family: 'biasa';
-    src: url(/UAS/Font/Poppins-Regular.ttf);
+    src: url(/Font/Poppins-Regular.ttf);
 }
 
 body {
